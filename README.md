@@ -1,1 +1,1 @@
-"<h1>Project&Study!</h1>" 
+<h1>Project&Study!</h1>"

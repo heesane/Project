@@ -1,0 +1,9 @@
+[submodule "IoT"]
+	path = IoT
+	url = https://github.com/heesane/Python_IoT.git
+[submodule "BrainWheel_BE"]
+	path = BrainWheel_BE
+	url = https://github.com/heesane/Python_BrainWheel_BE.git
+[submodule "Nodejs"]
+	path = Nodejs
+	url = https://github.com/heesane/NodeJS_BE.git

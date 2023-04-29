@@ -10,3 +10,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/heesane/Frontend.git
+[submodule "LangStudy"]
+	path = LangStudy
+	url = https://github.com/heesane/LangStudy.git

@@ -8,5 +8,8 @@
 	path = Nodejs
 	url = https://github.com/heesane/NodeJS_BE.git
 [submodule "LangStudy"]
-	path = LangStudy
+	path = Study
 	url = https://github.com/heesane/LangStudy.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/heesane/Frontend.git

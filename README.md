@@ -14,7 +14,7 @@ __Study List__
 
 ● <a href="https://github.com/heesane/Study.git">__Lang Study__</a>
 
-● <a href="https://github.com/heesane/Project.git">__Front End__</a>
+● <a href="https://github.com/heesane/Frontend.git">__Front End__</a>
 
 ----
 

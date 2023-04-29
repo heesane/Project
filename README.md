@@ -12,7 +12,7 @@ __Study List__
 
 ● <a href="https://github.com/heesane/NodeJS_BE">__Node.js for BE__</a>
 
-● <a href="https://github.com/heesane/Study">__Lang Study__</a>
+● <a href="https://github.com/heesane/Study.git">__Lang Study__</a>
 
 ----
 

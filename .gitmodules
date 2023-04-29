@@ -7,3 +7,6 @@
 [submodule "Nodejs"]
 	path = Nodejs
 	url = https://github.com/heesane/NodeJS_BE.git
+[submodule "Study"]
+	path = Study
+	url = https://github.com/heesane/Study.git

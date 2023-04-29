@@ -23,3 +23,7 @@ __Waiting Long Term Project__
 
 __Mini Project__
 > 1. C++_EveryTime
+
+__Term Project__
+> 1. Calculator Application
+> 2. Mini Every Time

@@ -13,3 +13,6 @@
 [submodule "LangStudy"]
 	path = LangStudy
 	url = https://github.com/heesane/LangStudy.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/heesane/Backend.git

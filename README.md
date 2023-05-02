@@ -1,31 +1,33 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ProjectRepo!&fontSize=50&animation=twinkling)
 
-----
-__Ongoing-Project List__
+---
 
+**Ongoing-Project List**
 
-● <a href="https://github.com/heesane/Python_BrainWheel_BE">__Brain Wheel Backend__</a>
+● <a href="https://github.com/heesane/Python_BrainWheel_BE">**Brain Wheel Backend**</a>
 
+**Study List**
 
-__Study List__
+● <a href="https://github.com/heesane/NodeJS_BE">**Node.js for BE**</a>
 
-● <a href="https://github.com/heesane/NodeJS_BE">__Node.js for BE__</a>
+● <a href="https://github.com/heesane/Study.git">**Lang Study**</a>
 
-● <a href="https://github.com/heesane/Study.git">__Lang Study__</a>
+● <a href="https://github.com/heesane/Frontend.git">**Front End**</a>
 
-● <a href="https://github.com/heesane/Frontend.git">__Front End__</a>
+---
 
-----
+**Waiting Long Term Project**
 
-__Waiting Long Term Project__
-> 1. ICT Project Smart 
+> 1. ICT Project Smart
 > 2. ICT Project Probono
-----
 
-__Mini Project__
-> 1. C++_EveryTime
+---
 
-__Term Project__
+**Mini Project**
+
+> 1. C++\_EveryTime
+
+**Term Project**
+
 > 1. Calculator Application
 > 2. Mini Every Time

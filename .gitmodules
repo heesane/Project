@@ -1,18 +1,23 @@
 [submodule "IoT"]
 	path = IoT
 	url = https://github.com/heesane/IoT.git
+
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/heesane/Frontend.git
+
 [submodule "LangStudy"]
 	path = LangStudy
 	url = https://github.com/heesane/LangStudy.git
+
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/heesane/Backend.git
+
 [submodule "CodingTest"]
 	path = CodingTest
 	url = https://github.com/heesane/CodingTest.git
+	
 [submodule "2023SVWitchsMind"]
 	path = Witchs Mind
 	url = https://github.com/heesane/Witch-s-Mind.git

@@ -13,7 +13,7 @@
 [submodule "CodingTest"]
 	path = CodingTest
 	url = https://github.com/heesane/CodingTest.git
-[submodule "2023SVWitch's Mind"]
+[submodule "2023SVWitchsMind"]
 	path = Witchs Mind
 	url = https://github.com/heesane/Witch-s-Mind.git
 [submodule "GoodNightHackathon_Frontend"]
@@ -31,7 +31,7 @@
 [submodule "2023BrainWheel_Frontend"]
 	path = 2023BrainWheel_Frontend
 	url = https://github.com/2023Brainwheel/frontend.git
-[submodule "2023Unknown"]
+[submodule "Unknown"]
 	path = 2023Unknown
 	url = https://github.com/2023-Unknown/Unknown.git
 [submodule "2023AquaMavericks_Backend"]

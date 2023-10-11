@@ -22,11 +22,11 @@
 	path = 2023SVWitchsMind
 	url = https://github.com/heesane/Witch-s-Mind.git
 
-[submodule "GoodNightHackathon_Frontend"]
+[submodule "2023GoodNightHackathon_Frontend"]
 	path = GoodNightHackathon_Frontend
 	url = https://github.com/heesane/Good-Night-2nd-Hackathon-Frontend.git
 
-[submodule "GoodNightHackathon_Backend"]
+[submodule "2023GoodNightHackathon_Backend"]
 	path = GoodNightHackathon_Backend
 	url =https://github.com/heesane/Good-Night-2nd-Hackathon-Backend.git
 

@@ -6,11 +6,27 @@
     path = Study/CodingTest
     url = https://github.com/heesane/CodingTest.git
 
-[submodule "Study/Hackathon/goodnight_front"]
+[submodule "GoodNight-2nd-Hackathon-Frontend"]
 	path = Study/Hackathon/goodnight_front
 	url = https://github.com/heesane/GoodNight-2nd-Hackathon-Frontend.git
 
-[submodule "Study/Hackathon/goodnight_back"]
+[submodule "GoodNight-2nd-Hackathon-Backend"]
     path = Study/Hackathon/goodnight_back
     url = https://github.com/heesane/GoodNight-2nd-Hackathon-Backend.git
+
+[submodule "Docker"]
+    path = Study/Docker
+    url = https://github.com/heesane/docker.git
+
+[submodule "Nodejs"] 
+    path = Study/Nodejs
+    url = https://github.com/heesane/NodeJS_BE.git
+
+[submodule "Backend"] 
+    path = Study/Backend
+    url = https://github.com/heesane/Backend.git
+
+[submodule "Frontend"] 
+    path = Study/Frontend
+    url = https://github.com/heesane/Frontend.git
 

@@ -5,3 +5,6 @@
 [submodule  "CodingTest"]
     path = Study/CodingTest
     url = https://github.com/heesane/CodingTest.git
+[submodule "Study/Hackathon/goodnight_front"]
+	path = Study/Hackathon/goodnight_front
+	url = https://github.com/heesane/GoodNight-2nd-Hackathon-Frontend.git

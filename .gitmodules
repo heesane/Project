@@ -1,3 +1,6 @@
 [submodule "IoT"]
-	path = Study/IoT
+	path = study/IoT
 	url = https://github.com/heesane/IoT.git
+[submodule  "CodingTest"]
+    path = study/CodingTest
+    url = https://github.com/heesane/CodingTest.git

@@ -1,10 +1,16 @@
 [submodule "IoT"]
 	path = Study/IoT
 	url = https://github.com/heesane/IoT.git
-    
+
 [submodule  "CodingTest"]
     path = Study/CodingTest
     url = https://github.com/heesane/CodingTest.git
+
 [submodule "Study/Hackathon/goodnight_front"]
 	path = Study/Hackathon/goodnight_front
 	url = https://github.com/heesane/GoodNight-2nd-Hackathon-Frontend.git
+
+[submodule "Study/Hackathon/goodnight_back"]
+    path = Study/Hackathon/goodnight_back
+    url = https://github.com/heesane/GoodNight-2nd-Hackathon-Backend.git
+

@@ -1,25 +1,25 @@
 [submodule "IoT"]
-	path = IoT
+	path = STUDY/IoT
 	url = https://github.com/heesane/IoT.git
 
 [submodule "Frontend"]
-	path = Frontend
+	path = STUDY/Frontend
 	url = https://github.com/heesane/Frontend.git
 
 [submodule "LangStudy"]
-	path = LangStudy
+	path = STUDY/LangStudy
 	url = https://github.com/heesane/LangStudy.git
 
 [submodule "Backend"]
-	path = Backend
+	path = STUDY/Backend
 	url = https://github.com/heesane/Backend.git
 
 [submodule "CodingTest"]
-	path = CodingTest
+	path = STUDY/CodingTest
 	url = https://github.com/heesane/CodingTest.git
 
 [submodule "2023SVWitchsMind"]
-	path = 2023SVWitchsMind
+	path = PROJECT/2023SVWitchsMind
 	url = https://github.com/heesane/Witch-s-Mind.git
 
 [submodule "2023GoodNightHackathon_Frontend"]
@@ -35,11 +35,11 @@
 	url = https://github.com/heesane/docker.git
 
 [submodule "2023BrainWheel_Backend"]
-	path = BrainWheel/2023BrainWheel_Backend
+	path = STUDY/BrainWheel/2023BrainWheel_Backend
 	url =  https://github.com/2023Brainwheel/backend.git
 
 [submodule "2023BrainWheel_Frontend"]
-	path = BrainWheel/2023BrainWheel_Frontend
+	path = STUDY/BrainWheel/2023BrainWheel_Frontend
 	url = https://github.com/2023Brainwheel/frontend.git
 
 [submodule "Unknown"]
@@ -47,12 +47,12 @@
 	url = https://github.com/2023-Unknown/Unknown.git
 
 [submodule "2023AquaMavericks_Backend"]
-    path = AquaMavericks/2023AquaMavericks_Backend
+    path = PROJECT/AquaMavericks/2023AquaMavericks_Backend
 	url =https://github.com/aqua-maverick/backend.git
 
 [submodule "2023AquaMavericks_Frontend"]
-	path = AquaMavericks/2023AquaMavericks_Frontend
+	path = PROJECT/AquaMavericks/2023AquaMavericks_Frontend
 	url =https://github.com/aqua-maverick/frontend.git
 [submodule "Nodejs"]
-	path = Nodejs
+	path = STUDY/Nodejs
 	url = https://github.com/heesane/NodeJS_BE.git

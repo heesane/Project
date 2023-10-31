@@ -1,3 +1,4 @@
+# Study
 [submodule "IoT"]
 	path = Study/IoT
 	url = https://github.com/heesane/IoT.git
@@ -30,3 +31,32 @@
     path = Study/Frontend
     url = https://github.com/heesane/Frontend.git
 
+
+# Project
+[submodule "AquaMavericks_Backend"]
+    path = Project/AquaMavericks/backend
+    url = https://github.com/AquaMavericks/backend.git
+
+[submodule "AquaMavericks_Frontend"]
+    path = Project/AquaMavericks/frontend
+    url = https://github.com/AquaMavericks/frontend.git
+
+[submodule "BrainWheel_Backend"]
+    path = Project/BrainWheel/backend
+    url = https://github.com/2023Brainwheel/backend.git
+
+[submodule "BrainWheel_Frontend"]
+    path = Project/BrainWheel/frontend
+    url = https://github.com/2023Brainwheel/frontend.git
+
+[submodule "Unknown"]
+    path = Project/Unknown
+    url = https://github.com/2023-Unknown/Unknown.git
+
+[submodule "WitchsMind"]
+    path = Project/WitchsMind
+    url = https://github.com/heesane/Witch-s-Mind.git
+
+[submodule "Woowa-Precourse"]
+    path = Project/Woowa-Precourse
+    url = https://github.com/heesane/woowa-precourse.git

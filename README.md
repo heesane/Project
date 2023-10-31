@@ -4,30 +4,13 @@
 
 **Ongoing-Project List**
 
-● <a href="https://github.com/heesane/Python_BrainWheel_BE">**Brain Wheel Backend**</a>
+● ICT Project 프로보노 ~11.5
+● ICT Project 스마트 해상 물류 ~11.4
 
 **Study List**
 
-● <a href="https://github.com/heesane/NodeJS_BE">**Node.js for BE**</a>
-
-● <a href="https://github.com/heesane/Study.git">**Lang Study**</a>
-
-● <a href="https://github.com/heesane/Frontend.git">**Front End**</a>
+● 우아한 테크코스 프리코스 6기
+● 인프런 김영한 백엔드 로드맵
+● Springboot
 
 ---
-
-**Waiting Long Term Project**
-
-> 1. ICT Project Smart
-> 2. ICT Project Probono
-
----
-
-**Mini Project**
-
-> 1. C++\_EveryTime
-
-**Term Project**
-
-> 1. Calculator Application
-> 2. Mini Every Time

@@ -5,12 +5,19 @@
 **Ongoing-Project List**
 
 ● ICT Project 프로보노 ~11.5
+
 ● ICT Project 스마트 해상 물류 ~11.4
+
+● Team WOody Project Name Unknown
 
 **Study List**
 
 ● 우아한 테크코스 프리코스 6기
+
 ● 인프런 김영한 백엔드 로드맵
-● Springboot
+
+● Springboot2 
+
+● Computer Science Study
 
 ---

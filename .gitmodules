@@ -53,3 +53,6 @@
 [submodule "2023AquaMavericks_Frontend"]
 	path = 2023AquaMavericks_Frontend
 	url =https://github.com/aqua-maverick/frontend.git
+[submodule "Nodejs"]
+	path = Nodejs
+	url = https://github.com/heesane/NodeJS_BE.git

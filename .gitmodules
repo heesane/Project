@@ -23,11 +23,11 @@
 	url = https://github.com/heesane/Witch-s-Mind.git
 
 [submodule "2023GoodNightHackathon_Frontend"]
-	path = GoodNightHackathon_Frontend
+	path = GoodNightHackathon/GoodNightHackathon_Frontend
 	url = https://github.com/heesane/Good-Night-2nd-Hackathon-Frontend.git
 
 [submodule "2023GoodNightHackathon_Backend"]
-	path = GoodNightHackathon_Backend
+	path = GoodNightHackathon/GoodNightHackathon_Backend
 	url =https://github.com/heesane/Good-Night-2nd-Hackathon-Backend.git
 
 [submodule "Docker"]
@@ -35,11 +35,11 @@
 	url = https://github.com/heesane/docker.git
 
 [submodule "2023BrainWheel_Backend"]
-	path = 2023BrainWheel_Backend
+	path = BrainWheel/2023BrainWheel_Backend
 	url =  https://github.com/2023Brainwheel/backend.git
 
 [submodule "2023BrainWheel_Frontend"]
-	path = 2023BrainWheel_Frontend
+	path = BrainWheel/2023BrainWheel_Frontend
 	url = https://github.com/2023Brainwheel/frontend.git
 
 [submodule "Unknown"]
@@ -47,11 +47,11 @@
 	url = https://github.com/2023-Unknown/Unknown.git
 
 [submodule "2023AquaMavericks_Backend"]
-    path = 2023AquaMavericks_Backend
+    path = AquaMavericks/2023AquaMavericks_Backend
 	url =https://github.com/aqua-maverick/backend.git
 
 [submodule "2023AquaMavericks_Frontend"]
-	path = 2023AquaMavericks_Frontend
+	path = AquaMavericks/2023AquaMavericks_Frontend
 	url =https://github.com/aqua-maverick/frontend.git
 [submodule "Nodejs"]
 	path = Nodejs

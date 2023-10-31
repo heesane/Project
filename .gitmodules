@@ -43,7 +43,7 @@
 	url = https://github.com/2023Brainwheel/frontend.git
 
 [submodule "Unknown"]
-	path = Unknown
+	path = PROJECT/Unknown
 	url = https://github.com/2023-Unknown/Unknown.git
 
 [submodule "2023AquaMavericks_Backend"]

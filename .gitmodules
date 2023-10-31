@@ -58,5 +58,5 @@
     url = https://github.com/heesane/Witch-s-Mind.git
 
 [submodule "Woowa-Precourse"]
-    path = Project/Woowa-Precourse
+    path = Project/Woowa-precourse
     url = https://github.com/heesane/woowa-precourse.git
